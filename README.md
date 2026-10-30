@@ -1,29 +1,29 @@
-OB-StatSketch - Complete Features set
+# OB-StatSketch — Complete Features
 
-An Interactive, Offline Inferential Statistics Learning and Graphing Lab
+**An Interactive, Offline Inferential Statistics Learning and Graphing Lab**
 
 OB-StatSketch is a free, standalone educational application that helps learners understand statistical concepts, perform calculations, visualize data, and explore inferential statistics through interactive experiments.
 
-1. COMPREHENSIVE LEARNING HUB
+## 1. Comprehensive Learning Hub
 
-A structured educational program consisting of 12 chapters and 39 progressive lessons, moving from fundamental concepts to advanced statistical methods.
+A structured educational program consisting of **12 chapters and 39 progressive lessons**, moving from fundamental concepts to advanced statistical methods.
 
-Topics include:
+**Topics include:**
 
-- Foundations of inferential statistics
-- Probability and probability distributions
-- Sampling distributions and the Central Limit Theorem
-- Point estimation and confidence intervals
-- Hypothesis testing and statistical decision-making
-- Comparing population means
-- Analysis of variance and experimental design
-- Categorical data and chi-square inference
-- Correlation and regression
-- Nonparametric statistical methods
-- Statistical power and sample-size planning
-- Resampling and advanced inferential methods
+1. Foundations of inferential statistics
+2. Probability and probability distributions
+3. Sampling distributions and the Central Limit Theorem
+4. Point estimation and confidence intervals
+5. Hypothesis testing and statistical decision-making
+6. Comparing population means
+7. Analysis of variance and experimental design
+8. Categorical data and chi-square inference
+9. Correlation and regression
+10. Nonparametric statistical methods
+11. Statistical power and sample-size planning
+12. Resampling and advanced inferential methods
 
-Learning capabilities:
+**Learning capabilities:**
 
 - Guided visual lessons
 - Full Reading mode
@@ -37,7 +37,7 @@ Learning capabilities:
 - Individual learning progress tracking
 - Direct links to relevant statistical calculators
 
-2. CONFIDENCE INTERVAL CALCULATORS
+## 2. Confidence Interval Calculators
 
 - Confidence interval for one population mean using Z or Student's t
 - Confidence interval for a population proportion
@@ -48,7 +48,7 @@ Learning capabilities:
 
 Includes confidence levels, margins of error, standard errors, critical values, and graphical interpretation.
 
-3. PROBABILITY DISTRIBUTIONS & CRITICAL VALUES
+## 3. Probability Distributions & Critical Values
 
 - Standard normal Z-distribution
 - Student's t-distribution
@@ -61,7 +61,7 @@ Includes confidence levels, margins of error, standard errors, critical values, 
 
 Critical values are calculated within the application, removing the need for external statistical tables.
 
-4. HYPOTHESIS TESTING
+## 4. Hypothesis Testing
 
 - One-sample Z-test
 - One-sample t-test
@@ -72,7 +72,7 @@ Critical values are calculated within the application, removing the need for ext
 - Significance levels and statistical decisions
 - Type I and Type II error explanations
 
-5. ANOVA & GROUP COMPARISONS
+## 5. ANOVA & Group Comparisons
 
 - One-way ANOVA
 - Balanced two-way factorial ANOVA
@@ -81,7 +81,7 @@ Critical values are calculated within the application, removing the need for ext
 - Group mean comparisons
 - Holm-adjusted multiple comparisons
 
-6. CATEGORICAL DATA ANALYSIS
+## 6. Categorical Data Analysis
 
 - Chi-square goodness-of-fit test
 - Chi-square test of independence for 2×2 tables
@@ -89,15 +89,15 @@ Critical values are calculated within the application, removing the need for ext
 - Chi-square statistics and p-values
 - Graphical explanations of categorical relationships
 
-7. NONPARAMETRIC STATISTICS
+## 7. Nonparametric Statistics
 
-- Mann-Whitney U test
+- Mann–Whitney U test
 - Wilcoxon signed-rank test
-- Kruskal-Wallis H test
+- Kruskal–Wallis H test
 - Rank-based comparison graphs
 - Explanations of distributional assumptions and limitations
 
-8. DATA VISUALIZATION & REGRESSION
+## 8. Data Visualization & Regression
 
 - Histograms
 - Box plots
@@ -108,7 +108,7 @@ Critical values are calculated within the application, removing the need for ext
 - Confidence interval diagrams
 - Statistical comparison charts
 
-9. SAMPLE SIZE & STATISTICAL POWER
+## 9. Sample Size & Statistical Power
 
 - Required sample-size calculations
 - Margin of error versus sample size
@@ -117,7 +117,7 @@ Critical values are calculated within the application, removing the need for ext
 - Approximate two-group Z-test power planning
 - Confidence interval coverage simulations
 
-10. RANDOM NUMBER & TRIAL RANDOMIZATION LAB
+## 10. Random Number & Trial Randomization Lab
 
 - Random integer generation
 - Random decimal generation
@@ -131,7 +131,7 @@ Critical values are calculated within the application, removing the need for ext
 
 The randomizer is intended for educational and general experimental use, not as a validated regulated clinical-trial randomization system.
 
-11. DATA & DESIGN STUDIO
+## 11. Data & Design Studio
 
 - CSV data import
 - Direct data entry and pasting
@@ -146,7 +146,7 @@ The randomizer is intended for educational and general experimental use, not as 
 - Two-level factorial design generation
 - Statistical tool-selection assistant
 
-12. INTERACTIVE STATISTICAL PRACTICE
+## 12. Interactive Statistical Practice
 
 - Guided worked examples
 - Numerical calculation exercises
@@ -158,7 +158,7 @@ The randomizer is intended for educational and general experimental use, not as 
 - Classroom practice worksheets
 - Separate instructor answer keys
 
-13. STATISTICAL LEARNING REFERENCES
+## 13. Statistical Learning References
 
 - Searchable statistical glossary
 - More than 70 symbols and statistical terms
@@ -169,7 +169,7 @@ The randomizer is intended for educational and general experimental use, not as 
 - The Science Behind lessons associated with individual tools
 - Guidance on selecting statistical methods
 
-14. EXPORTING & REPORTING
+## 14. Exporting & Reporting
 
 - Download statistical graphs as PNG images
 - Download graphs in SVG format
@@ -178,17 +178,17 @@ The randomizer is intended for educational and general experimental use, not as 
 - Include numerical results, formulas, graphs, and interpretations
 - Export graphs with OB-StatSketch branding and application version
 
-15. CUSTOMIZABLE APPEARANCE
+## 15. Customizable Appearance
 
 Three selectable visual themes:
 
-- Classic: Professional blue and teal
-- Zest: Bold Electric Citrus palette
-- Pink Lemonade: Light Blush & Berry palette
+- **Classic:** Professional blue and teal
+- **Zest:** Bold Electric Citrus palette
+- **Pink Lemonade:** Light Blush & Berry palette
 
 Themes apply to the user interface and exported statistical visualizations.
 
-16. OFFLINE & PORTABLE ARCHITECTURE
+## 16. Offline & Portable Architecture
 
 - Entire application contained in one HTML file
 - No installation required
@@ -200,7 +200,7 @@ Themes apply to the user interface and exported statistical visualizations.
 - Embedded branding and logo
 - Local execution of calculations and graph generation
 
-17. STUDENT-FRIENDLY INTERFACE
+## 17. Student-Friendly Interface
 
 - Hamburger navigation menu
 - Grouped statistical calculators
@@ -212,27 +212,29 @@ Themes apply to the user interface and exported statistical visualizations.
 - Integrated statistical method finder
 - Clear calculation steps and interpretations
 
-WHO IS OB-STATS KETCH FOR?
+---
 
-Students: Learn inferential statistics through practical examples and interactive visualizations.
+## Who Is OB-StatSketch For?
 
-Educators: Demonstrate statistical concepts and prepare classroom exercises.
+**Students:** Learn inferential statistics through practical examples and interactive visualizations.
 
-Researchers: Perform supported statistical calculations and explore experimental designs.
+**Educators:** Demonstrate statistical concepts and prepare classroom exercises.
 
-Self-learners: Study statistics without purchasing specialized statistical software.
+**Researchers:** Perform supported statistical calculations and explore experimental designs.
 
-TECHNOLOGY
+**Self-learners:** Study statistics without purchasing specialized statistical software.
+
+## Technology
 
 OB-StatSketch is built using HTML5, CSS3, JavaScript, and SVG.
 
 The application is distributed as a single self-contained HTML file, making it easy to download, share, and run offline.
 
-DEVELOPER
+## Developer
 
-Omar M. Badreldin
+**Omar M. Badreldin**
 
-LinkedIn: https://www.linkedin.com/in/omarbadr
-GitHub: https://github.com/ByOmarBadr
+[LinkedIn](https://www.linkedin.com/in/omarbadr)  
+[GitHub](https://github.com/ByOmarBadr)
 
-Vibe coded with ❤️ for Data and AI by Omar M. Badreldin
+*Vibe coded with ❤️ for Data and AI by Omar M. Badreldin*
